@@ -1,0 +1,21 @@
+.container{
+  display: flex;
+}
+
+.left-container{
+  width: 60%;
+}
+
+.right-container{
+  width: 40%;
+}
+
+.home-value{
+  margin: 1rem auto;
+  width: 80%;
+}
+
+.formcontrol{
+  display: flex;
+  justify-content: center;
+}
